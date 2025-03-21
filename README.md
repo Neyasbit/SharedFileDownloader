@@ -13,9 +13,9 @@
 - 📱 Поддержка **Kotlin Multiplatform** (Android, iOS, JVM, MasOS)
 
 ## Примеры работы приложений
-[Android](https://github.com/Neyasbit/SharedFileDownloader/blob/main/records/Screen_recording_20250320_203521.gif)
-[IOS](https://github.com/Neyasbit/SharedFileDownloader/blob/main/records/Simulator-Screen-Recording-iPhone-15-2025-03-21-at-14.30.34.gif)
-[Desktop](https://github.com/Neyasbit/SharedFileDownloader/blob/main/records/Запись-экрана-2025-03-21-в-15.03.47.gif)
+![Android](https://github.com/Neyasbit/SharedFileDownloader/blob/main/records/Screen_recording_20250320_203521.gif)
+![IOS](https://github.com/Neyasbit/SharedFileDownloader/blob/main/records/Simulator-Screen-Recording-iPhone-15-2025-03-21-at-14.30.34.gif)
+![Desktop](https://github.com/Neyasbit/SharedFileDownloader/blob/main/records/Запись-экрана-2025-03-21-в-15.03.47.gif)
 
 ## 🚀 Использование
 
